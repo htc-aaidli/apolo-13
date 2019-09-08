@@ -1,0 +1,322 @@
+    1  git clone https://github.com/vishrutshah/mapreduce.git
+    2  git clone https://github.com/hbellahc/mapreduce.git
+    3  cd mapreduce/
+    4  git clone https://github.com/hbellahc/mapreduce.git
+    5  ssh root@sandbox.hortonworks.com -p 2222
+    6  ssh root@sandbox.hortonworks.com -p 2222
+    7  ssh root@sandbox.hortonworks.com -p 2222
+    8  git clone https://github.com/Ahmed-Gater/HadoopUtilities.git
+    9  git clone https://github.com/Ahmed-Gater/BigData-Dataset.git
+   10  ssh root@sandbox.hortonworks.com -p 2222
+   11  ssh root@sandbox.hortonworks.com -p 2222
+   12  git clone https://github.com/Ahmed-Gater/BigData-Dataset.git
+   13  git clone https://github.com/omkreddy/kafka-examples.git
+   14  git clone https://github.com/confluentinc/examples.git
+   15  npm install -g udemy-dl
+   16  npm
+   17  npm
+   18  Pour activer votre carte ING Direct :
+   19  1 - Choisissez votre code confidentiel rubrique « Compte Courant » puis « Votre carte » puis « Choisir mon code confidentiel »
+   20  clear
+   21  npm
+   22  npm install -g udemy-dl
+   23  clear
+   24  udl -u mouloudlimam@gmail.com -p Algerie2017? https://www.udemy.com/introduction-to-microstrategy-report-development/learn/v4/t/lecture/3427834?start=75
+   25  udl -u mouloudlimam@gmail.com -p Algerie@2017? https://www.udemy.com/introduction-to-microstrategy-report-development/learn/v4/t/lecture/3427834?start=75
+   26  udl -u limammouloud@gmail.com -p Algerie@2017? https://www.udemy.com/introduction-to-microstrategy-report-development/learn/v4/t/lecture/3427834?start=75
+   27  udl -u limammouloud@gmail.com -p Algerie@2017? https://www.udemy.com/introduction-to-microstrategy-report-development/learn/v4/t/lecture/3427834?start=75
+   28  udl https://www.udemy.com/introduction-to-microstrategy-report-development/learn/v4/t/lecture/3427834?start=75
+   29  udl https://www.udemy.com/introduction-to-microstrategy-report-development/learn/v4/t/lecture/3427834?start=75
+   30  udemy-dl https://www.udemy.com/introduction-to-microstrategy-report-development/learn/v4/t/lecture/3431792?start=0
+   31  npm install -g udemy-dl
+   32  udl -u limammouloud@gmail.com -p Algerie@2017? https://www.udemy.com/introduction-to-microstrategy-report-development/learn/v4/t/lecture/3427834?start=75
+   33  udl -u limammouloud@gmail.com -p Algerie@2017? https://www.udemy.com/introduction-to-microstrategy-report-development/learn/v4/t/lecture/3427834?start=75
+   34  udl -u limammouloud@gmail.com -p Algerie@2017? https://www.udemy.com/
+   35  udl --help
+   36  udl -u limammouloud@gmail.com -p Algerie@2017? https://www.udemy.com/introduction-to-microstrategy-report-development/learn/v4/t/lecture/3427834?start=75
+   37  ssh root@sandbox.hortonworks.com -p 2222
+   38  ssh root@sandbox.hortonworks.com -p 2222
+   39  mvn archetype:create -DgroupId=com.javacodegeeks.examples -DartifactId=maven-hbase-example
+   40  git clone  
+   41  git clone https://github.com/apache/hbase.git
+   42  git --help
+   43  clear
+   44  ls
+   45  kibana.bat
+   46  ./kibana.bat
+   47  ./elasticsearch.bat
+   48  clear
+   49  ./elasticsearch.bat
+   50  clear
+   51  ./elasticsearch.bat
+   52  clear
+   53  ./elasticsearch.bat
+   54  ./elasticsearch.bat
+   55  ./elasticsearch.bat
+   56  ls
+   57  cd bin/
+   58  ls
+   59  ls -l
+   60  elasticsearch.bat
+   61  elasticsearch.bat
+   62  ls
+   63  .\elasticsearch.bat
+   64  ./elasticsearch.bat
+   65  cls
+   66  clear
+   67  ./elasticsearch.bat
+   68  ./elasticsearch.bat
+   69  clear
+   70  ./elasticsearch.bat
+   71  clear
+   72  ./elasticsearch.bat
+   73  clear
+   74  ./elasticsearch.bat
+   75  clear
+   76  ./elasticsearch.bat
+   77  ./elasticsearch.bat
+   78  git pull
+   79  git clone https://github.com/JEE-DMO/java.git
+   80  git clone https://gitlab.com/hbellahc/spark-training
+   81  git clone https://gitlab.com/hbellahc/spark-training.git
+   82  git status
+   83  cd spark-training/
+   84  clear
+   85  git branch
+   86  git branch -b jira-152
+   87  clear
+   88  git checkout -b jira-152
+   89  git branch
+   90  git status
+   91  git ignore .classpath
+   92  cls
+   93  clear
+   94  git add
+   95  clear
+   96  git status
+   97  git add *
+   98  clear
+   99  git status
+  100  clear
+  101  git checkout master
+  102  git status
+  103  git checkout jira-152
+  104  git commit -am "Add java class for sysout"
+  105  git status
+  106  clear
+  107  git push
+  108   git push --set-upstream origin jira-152
+  109  clear
+  110  git checkout master
+  111  git pull
+  112  git branch jira-152 
+  113  git branch jira-152 
+  114  git checkout jira-152 
+  115  git co master
+  116  git checkout master
+  117  git log
+  118  clear
+  119  git checkout j
+  120  git checkout jira-152 
+  121  git commit -am "RAS"
+  122  git checkout jira-152 
+  123  git clone https://gitlab.com/hbellahc/spark-training.git
+  124  git pull
+  125  cd spark-training/
+  126  clear
+  127  git pull
+  128  git checkout step-04
+  129  git checkout step-444
+  130  git checkout -b step-444
+  131  git status
+  132  git diff
+  133  git add *
+  134  git status
+  135  git add step-44
+  136  git status
+  137  clear
+  138  git status
+  139  git add *
+  140  git commit -am "Jdbc integration"
+  141  git commit -am "Jdbc integration"
+  142  git push
+  143  ssh root@sandbox-hdp.hortonworks.com -p 2222
+  144  kafka-server-start
+  145  Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+  146  wget http://mirror.ibcp.fr/pub/apache/kafka/2.1.0/kafka_2.11-2.1.0.tgz
+  147  cd
+  148  pwd
+  149  cd c:/dev/
+  150  git clone https://github.com/JEE-DMO/kafka-tutorial.git
+  151  docker
+  152  git clone https://github.com/JEE-DMO/big-data.git
+  153  cd 
+  154  ll
+  155  git branch --list
+  156  git add *
+  157  ll
+  158  git commit -am "hive client"
+  159  git push
+  160  echo "# big-data" >> README.md
+  161  git init
+  162  git add README.md
+  163  git commit -m "first commit"
+  164  git remote add origin https://github.com/JEE-DMO/big-data.git
+  165  git push -u origin master
+  166  git clone https://gitlab.com/hbellahc/spark-training.git
+  167  cd spark-training/
+  168  git co step-01-solution
+  169  git checkout step-01-solution
+  170  git checkout master
+  171  git stach
+  172  git stash
+  173  git checkout master
+  174  mvn eclipse:eclipse
+  175  git checkout step-04-solution
+  176  git checkout step-04-solution
+  177  git stash
+  178  git checkout step-04-solution
+  179  git clone https://github.com/hbellahc/spark-streaming-app.git
+  180  git checkout step-01-solution
+  181  cd spark-streaming-app/
+  182  git checkout step-01-solution
+  183  pwd
+  184  git checkout master
+  185  git checkout step-01-solution
+  186  git clone https://github.com/hamelsamir/kpi-ventes.git
+  187  cd D:\dmo\mlm\tech\Support\shamel\kpi-ventes
+  188  cd D:\dmo\mlm\tech\Support\shamel\kpi-ventes
+  189  cd kpi-ventes/
+  190  clear
+  191  git diff
+  192  git status
+  193  :
+  194  cd ..
+  195  ll
+  196  cd ..
+  197  ll
+  198  xs shamel/
+  199  xs shamel/cd 
+  200  cd shamel/
+  201  mkdir beta
+  202  cd beta/
+  203  git clone https://github.com/hamelsamir/kpi-ventes.git
+  204  git reset head
+  205  git clone https://github.com/spring-guides/gs-spring-boot.git
+  206  git clone https://github.com/htc-06-2019/bi.git
+  207  git commit -am "Execices SQL"
+  208  cd bi/
+  209  git commit -am "Execices SQL"
+  210  git add *
+  211  git commit -am "Execices SQL"
+  212  git status
+  213  git push
+  214  clear
+  215  git log
+  216  git push 
+  217  cd ../../..
+  218  mkdir repo-git
+  219  cd repo-git/
+  220  ls
+  221  mkdir gestion-stock
+  222  cd gestion-stock/
+  223  git init
+  224  clear
+  225  git status
+  226  cls
+  227  clear
+  228  git status
+  229  git add script-insert-product.sql 
+  230  clear
+  231  git status
+  232  clear
+  233  git commit -m "Add initialisation ref product script"
+  234  clear
+  235  git status
+  236  git log
+  237  clear
+  238  git log
+  239  clear
+  240  git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  241  git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  242  clear
+  243  git status
+  244  git log
+  245  git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  246  clear
+  247  clear
+  248  git status
+  249  git log
+  250  git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  251  git log -p
+  252  clear
+  253  git status
+  254  git commit -m "Update insert script :  add id_product criteria"
+  255  git commit -am "Update insert script :  add id_product criteria"
+  256  git status
+  257  git log
+  258  clear
+  259  git commit
+  260  clear
+  261  git log
+  262  git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  263  git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  264  git log --decorate
+  265  git log --graph --pretty=format:'%h -%d %s (%cr) <%an>' --abbrev-commit
+  266  git loh \ tig
+  267  git log | tig
+  268  git tig
+  269  tig
+  270  tig -p
+  271  cd ..
+  272  mkdir project-name
+  273  cd project-name/
+  274  clear
+  275  git init
+  276  ls
+  277  clear
+  278  mkdir project-name
+  279  cd project-name/
+  280  git init
+  281  ls
+  282  ls -l
+  283  ls -a
+  284  clear
+  285  git status
+  286  clear
+  287  git add script-insert-data.sql 
+  288  git status
+  289  clear
+  290  git commit -m "Add sql script to init DB"
+  291  git status
+  292  clear
+  293  git log
+  294  git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  295  clear
+  296  git log
+  297  git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  298  git remote add origin https://github.com/htc-06-2019/apolo-13.git
+  299  git push -u origin master
+  300  git push -u origin master
+  301  mkdir apolo-14
+  302  cd apolo-14/
+  303  git init
+  304  clear
+  305  git status
+  306  git add script-insert.sql 
+  307  git status
+  308  git commit -m "add insert script for books"
+  309  git status
+  310  git add *
+  311  git status
+  312  git commit -m "test"
+  313  git log
+  314  git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  315  git remote add origin https://github.com/htc-06-2019/tst.git
+  316  git push -u origin master
+  317  history
+  318  git branch --list
+  319  git log
+  320  clear
+  321  git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  
