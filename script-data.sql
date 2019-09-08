@@ -1,0 +1,1 @@
+insrt inot TABLE values (,,,)
